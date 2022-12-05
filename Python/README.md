@@ -1,1 +1,1 @@
-All the Python tutorials presented here.
+All the Python based code related to DSA.

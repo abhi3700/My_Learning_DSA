@@ -1,3 +1,7 @@
-## Use DS & Algo using Javascript
+## JavaScript
+
+All the JS based code related to DSA.
+
 ### Repositories
-  * Javascript algorithms - https://github.com/trekhleb/javascript-algorithms
+
+- [JavaScript algorithms](https://github.com/trekhleb/javascript-algorithms)

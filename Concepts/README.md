@@ -1,1 +1,3 @@
-All the concepts present here.
+# Concepts
+
+All the DSA concepts are available here.

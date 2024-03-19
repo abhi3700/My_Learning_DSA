@@ -13,6 +13,7 @@ Competitive Coding will be done in programming languages - `Java`, `Python`, `Ru
 - [Visualize Algorithms](https://visualgo.net/en)
 - [Algorithm Notes for Professionals](Books/AlgorithmsNotesForProfessionals.pdf)
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/static/pythonds/index.html)
+- [log2base2.com | DSA in Python](https://log2base2.com/courses/data-structures-python/data-structures-and-its-real-life-applications-in-python)
 
 ## Videos
 
